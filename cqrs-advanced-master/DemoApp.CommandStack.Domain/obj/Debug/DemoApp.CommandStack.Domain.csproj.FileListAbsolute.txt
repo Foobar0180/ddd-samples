@@ -1,0 +1,5 @@
+C:\Projects\WorkshopDemo\CQRS\CqrsAdvanced\DemoApp.CommandStack.Domain\bin\Debug\DemoApp.CommandStack.Domain.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsAdvanced\DemoApp.CommandStack.Domain\bin\Debug\DemoApp.CommandStack.Domain.pdb
+C:\Projects\WorkshopDemo\CQRS\CqrsAdvanced\DemoApp.CommandStack.Domain\obj\Debug\DemoApp.CommandStack.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\WorkshopDemo\CQRS\CqrsAdvanced\DemoApp.CommandStack.Domain\obj\Debug\DemoApp.CommandStack.Domain.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsAdvanced\DemoApp.CommandStack.Domain\obj\Debug\DemoApp.CommandStack.Domain.pdb

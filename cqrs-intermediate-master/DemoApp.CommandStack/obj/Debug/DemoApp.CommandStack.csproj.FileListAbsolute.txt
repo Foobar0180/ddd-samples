@@ -1,0 +1,13 @@
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.CommandStack\bin\Debug\DemoApp.CommandStack.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.CommandStack\bin\Debug\DemoApp.CommandStack.pdb
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.CommandStack\bin\Debug\DemoApp.Infrastructure.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.CommandStack\bin\Debug\DemoApp.SharedKernel.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.CommandStack\bin\Debug\EntityFramework.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.CommandStack\bin\Debug\DemoApp.Infrastructure.pdb
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.CommandStack\bin\Debug\DemoApp.Infrastructure.dll.config
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.CommandStack\bin\Debug\DemoApp.SharedKernel.pdb
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.CommandStack\bin\Debug\EntityFramework.xml
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.CommandStack\obj\Debug\DemoApp.CommandStack.csprojResolveAssemblyReference.cache
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.CommandStack\obj\Debug\DemoApp.CommandStack.csproj.CoreCompileInputs.cache
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.CommandStack\obj\Debug\DemoApp.CommandStack.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.CommandStack\obj\Debug\DemoApp.CommandStack.pdb

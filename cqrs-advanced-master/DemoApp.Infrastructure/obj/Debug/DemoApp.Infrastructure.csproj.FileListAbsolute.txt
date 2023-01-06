@@ -1,0 +1,16 @@
+C:\Projects\WorkshopDemo\CQRS\CqrsAdvanced\DemoApp.Infrastructure\bin\Debug\DemoApp.Infrastructure.dll.config
+C:\Projects\WorkshopDemo\CQRS\CqrsAdvanced\DemoApp.Infrastructure\bin\Debug\DemoApp.Infrastructure.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsAdvanced\DemoApp.Infrastructure\bin\Debug\DemoApp.Infrastructure.pdb
+C:\Projects\WorkshopDemo\CQRS\CqrsAdvanced\DemoApp.Infrastructure\bin\Debug\DemoApp.CommandStack.Domain.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsAdvanced\DemoApp.Infrastructure\bin\Debug\DemoApp.Infrastructure.EventStore.SqlServer.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsAdvanced\DemoApp.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsAdvanced\DemoApp.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsAdvanced\DemoApp.Infrastructure\bin\Debug\DemoApp.CommandStack.Domain.pdb
+C:\Projects\WorkshopDemo\CQRS\CqrsAdvanced\DemoApp.Infrastructure\bin\Debug\DemoApp.Infrastructure.EventStore.SqlServer.pdb
+C:\Projects\WorkshopDemo\CQRS\CqrsAdvanced\DemoApp.Infrastructure\bin\Debug\DemoApp.Infrastructure.EventStore.SqlServer.dll.config
+C:\Projects\WorkshopDemo\CQRS\CqrsAdvanced\DemoApp.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Projects\WorkshopDemo\CQRS\CqrsAdvanced\DemoApp.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\WorkshopDemo\CQRS\CqrsAdvanced\DemoApp.Infrastructure\obj\Debug\DemoApp.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Projects\WorkshopDemo\CQRS\CqrsAdvanced\DemoApp.Infrastructure\obj\Debug\DemoApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\WorkshopDemo\CQRS\CqrsAdvanced\DemoApp.Infrastructure\obj\Debug\DemoApp.Infrastructure.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsAdvanced\DemoApp.Infrastructure\obj\Debug\DemoApp.Infrastructure.pdb

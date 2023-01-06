@@ -1,0 +1,14 @@
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.QueryStack\bin\Debug\DemoApp.QueryStack.dll.config
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.QueryStack\bin\Debug\DemoApp.QueryStack.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.QueryStack\bin\Debug\DemoApp.QueryStack.pdb
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.QueryStack\bin\Debug\DemoApp.Infrastructure.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.QueryStack\bin\Debug\DemoApp.SharedKernel.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.QueryStack\bin\Debug\DemoApp.Infrastructure.pdb
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.QueryStack\bin\Debug\DemoApp.Infrastructure.dll.config
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.QueryStack\bin\Debug\DemoApp.SharedKernel.pdb
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.QueryStack\obj\Debug\DemoApp.QueryStack.csprojResolveAssemblyReference.cache
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.QueryStack\obj\Debug\DemoApp.QueryStack.csproj.CoreCompileInputs.cache
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.QueryStack\obj\Debug\DemoApp.QueryStack.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.QueryStack\obj\Debug\DemoApp.QueryStack.pdb
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.QueryStack\bin\Debug\DemoApp.CommandStack.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.QueryStack\bin\Debug\DemoApp.CommandStack.pdb

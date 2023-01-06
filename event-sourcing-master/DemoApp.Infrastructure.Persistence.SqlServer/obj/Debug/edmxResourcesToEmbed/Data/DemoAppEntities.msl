@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DemoAppModelStoreContainer" CdmEntityContainer="DemoAppEntities">
+    <EntitySetMapping Name="Bookings">
+      <EntityTypeMapping TypeName="DemoApp.Infrastructure.Persistence.SqlServer.Data.Model.Booking">
+        <MappingFragment StoreEntitySet="Bookings">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="RequestId" ColumnName="RequestId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="CourtId" ColumnName="CourtId" />
+          <ScalarProperty Name="StartingAt" ColumnName="StartingAt" />
+          <ScalarProperty Name="Length" ColumnName="Length" />
+          <ScalarProperty Name="Notes" ColumnName="Notes" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Courts">
+      <EntityTypeMapping TypeName="DemoApp.Infrastructure.Persistence.SqlServer.Data.Model.Court">
+        <MappingFragment StoreEntitySet="Courts">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="FirstSlot" ColumnName="FirstSlot" />
+          <ScalarProperty Name="LastSlot" ColumnName="LastSlot" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

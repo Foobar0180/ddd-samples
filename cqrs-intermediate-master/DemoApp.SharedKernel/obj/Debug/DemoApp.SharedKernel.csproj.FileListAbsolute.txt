@@ -1,0 +1,5 @@
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.SharedKernel\bin\Debug\DemoApp.SharedKernel.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.SharedKernel\bin\Debug\DemoApp.SharedKernel.pdb
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.SharedKernel\obj\Debug\DemoApp.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.SharedKernel\obj\Debug\DemoApp.SharedKernel.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsIntermediate\DemoApp.SharedKernel\obj\Debug\DemoApp.SharedKernel.pdb

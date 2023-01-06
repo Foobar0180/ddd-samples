@@ -1,0 +1,11 @@
+C:\Projects\WorkshopDemo\CQRS\CqrsBeginner\DemoApp.ReadStack\bin\Debug\DemoApp.QueryStack.dll.config
+C:\Projects\WorkshopDemo\CQRS\CqrsBeginner\DemoApp.ReadStack\bin\Debug\DemoApp.QueryStack.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsBeginner\DemoApp.ReadStack\bin\Debug\DemoApp.QueryStack.pdb
+C:\Projects\WorkshopDemo\CQRS\CqrsBeginner\DemoApp.ReadStack\bin\Debug\EntityFramework.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsBeginner\DemoApp.ReadStack\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsBeginner\DemoApp.ReadStack\bin\Debug\EntityFramework.xml
+C:\Projects\WorkshopDemo\CQRS\CqrsBeginner\DemoApp.ReadStack\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\WorkshopDemo\CQRS\CqrsBeginner\DemoApp.ReadStack\obj\Debug\DemoApp.QueryStack.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsBeginner\DemoApp.ReadStack\obj\Debug\DemoApp.QueryStack.pdb
+C:\Projects\WorkshopDemo\CQRS\CqrsBeginner\DemoApp.ReadStack\obj\Debug\DemoApp.QueryStack.csprojResolveAssemblyReference.cache
+C:\Projects\WorkshopDemo\CQRS\CqrsBeginner\DemoApp.ReadStack\obj\Debug\DemoApp.QueryStack.csproj.CoreCompileInputs.cache

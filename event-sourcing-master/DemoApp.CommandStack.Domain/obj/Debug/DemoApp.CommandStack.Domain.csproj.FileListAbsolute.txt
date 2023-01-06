@@ -1,0 +1,8 @@
+C:\Projects\WorkshopDemo\EventSourcing\DemoApp.CommandStack.Domain\bin\Debug\DemoApp.CommandStack.Domain.dll
+C:\Projects\WorkshopDemo\EventSourcing\DemoApp.CommandStack.Domain\bin\Debug\DemoApp.CommandStack.Domain.pdb
+C:\Projects\WorkshopDemo\EventSourcing\DemoApp.CommandStack.Domain\bin\Debug\DemoApp.SharedKernel.dll
+C:\Projects\WorkshopDemo\EventSourcing\DemoApp.CommandStack.Domain\bin\Debug\DemoApp.SharedKernel.pdb
+C:\Projects\WorkshopDemo\EventSourcing\DemoApp.CommandStack.Domain\obj\Debug\DemoApp.CommandStack.Domain.csprojResolveAssemblyReference.cache
+C:\Projects\WorkshopDemo\EventSourcing\DemoApp.CommandStack.Domain\obj\Debug\DemoApp.CommandStack.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\WorkshopDemo\EventSourcing\DemoApp.CommandStack.Domain\obj\Debug\DemoApp.CommandStack.Domain.dll
+C:\Projects\WorkshopDemo\EventSourcing\DemoApp.CommandStack.Domain\obj\Debug\DemoApp.CommandStack.Domain.pdb

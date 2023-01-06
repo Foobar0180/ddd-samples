@@ -1,0 +1,10 @@
+C:\Projects\WorkshopDemo\CQRS\CqrsBeginner\DemoApp.CommandStack\bin\Debug\DemoApp.CommandStack.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsBeginner\DemoApp.CommandStack\bin\Debug\DemoApp.CommandStack.pdb
+C:\Projects\WorkshopDemo\CQRS\CqrsBeginner\DemoApp.CommandStack\bin\Debug\EntityFramework.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsBeginner\DemoApp.CommandStack\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsBeginner\DemoApp.CommandStack\bin\Debug\EntityFramework.xml
+C:\Projects\WorkshopDemo\CQRS\CqrsBeginner\DemoApp.CommandStack\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\WorkshopDemo\CQRS\CqrsBeginner\DemoApp.CommandStack\obj\Debug\DemoApp.CommandStack.dll
+C:\Projects\WorkshopDemo\CQRS\CqrsBeginner\DemoApp.CommandStack\obj\Debug\DemoApp.CommandStack.pdb
+C:\Projects\WorkshopDemo\CQRS\CqrsBeginner\DemoApp.CommandStack\obj\Debug\DemoApp.CommandStack.csprojResolveAssemblyReference.cache
+C:\Projects\WorkshopDemo\CQRS\CqrsBeginner\DemoApp.CommandStack\obj\Debug\DemoApp.CommandStack.csproj.CoreCompileInputs.cache
